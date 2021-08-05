@@ -1,0 +1,6 @@
+Create a new table for your analysis call “sales_genre”. 
+Load the sales_genre  with data from the Video game sales data set.
+Select these columns: Genre, Global_Sales, Critic_Score.   
+Round the data found in the “Global_Sales” column.  
+Filter the data to only look at those items in the “Critic_Score” column that are greater than 0.
+Order the data in the “Critic_Score” column from highest to lowest.
